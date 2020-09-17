@@ -1,1 +1,1 @@
-https://fruitlesskey.io/rsschool-cv/cv
+https://fruitlesskey.io/rsschool-cv/CV
