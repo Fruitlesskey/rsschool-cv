@@ -1,0 +1,93 @@
+body {
+  color: #b9b8af;
+  font: 12px Tahoma, sans-serif;
+  background-color: #f8f8f8;
+  border-top: 5px solid #7e7e7e;
+  margin: 0;
+}
+
+p {
+  margin: 10px 0;
+  font: 20px "Oswald", sans-serif;
+  color: slategrey;
+}
+
+h1 {
+  display: inline-block;
+  color: #7e7e7e;
+  font: 60px "Oswald", sans-serif;
+  margin: 0 1px;
+  padding: 0 5px;
+}
+
+h2 {
+  background: #29c5e6;
+  font: 30px "Oswald", sans-serif;
+  font-weight: 300;
+  color: #fff;
+  padding: 0 10px;
+  margin: 30px 440px 0 550px;
+}
+
+section {
+  margin-left: 280px;
+  padding-bottom: 50px;
+}
+
+h3 {
+  background: #29c5e6;
+  font: 30px "Oswald", sans-serif;
+  font-weight: 300;
+  color: #fff;
+  padding: 0 10px;
+  margin: 30px 0 0 0;
+}
+
+.contacts {
+  padding: 35px;
+  background: rgba(241, 236, 204, 0.849);
+  text-align: left;
+  color: #fff;
+  width: 100%;
+}
+
+.photo {
+  float: left;
+  width: 400px;
+  padding: 0 0 0 200px;
+}
+
+.skills {
+  display: inline-block;
+  float: left;
+  width: 36%;
+  margin-bottom: 0;
+}
+.Soft {
+  float: left;
+  width: 450px;
+}
+.Technical {
+  float: left;
+  width: 450px;
+}
+.education {
+  display: inline-block;
+  float: left;
+  width: 35%;
+  margin-bottom: 0;
+}
+.Education {
+  float: left;
+  width: 450px;
+}
+.English {
+  float: left;
+  width: 450px;
+}
+
+img {
+  border: rgb(0, 255, 76), 55px;
+  width: 230px;
+  height: 320px;
+}
